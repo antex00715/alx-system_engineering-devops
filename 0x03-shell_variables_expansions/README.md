@@ -1,0 +1,1 @@
+project ,to learn about init file,local,global and reserved variable and special parameters
